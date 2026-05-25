@@ -1,4 +1,3 @@
 admin admin admin NONE
 OOP OOP professor OOP
 U2510162 0000 student NONE
-U2510174 0000 student no course

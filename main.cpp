@@ -1,3 +1,6 @@
+
+// In order to enter as an admin, Login is "admin" and password is also "admin"
+
 #include <iostream>
 #include <fstream> // in order to file handling
 #include <string>
